@@ -1,0 +1,14 @@
+main: com.swiftpenguin.taxsp.TaxSP
+name: TaxSP
+version: 1.0
+author: Cobwebster
+
+commands:
+  tax:
+     description: Tax Cmd
+     usuage: /<command>
+
+permissions:
+    taxsp.reset:
+        description: allows reset usage
+        default: op

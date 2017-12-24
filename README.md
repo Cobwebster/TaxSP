@@ -1,2 +1,1 @@
-# TaxSP
-Taxes for Minecraft
+TaxSP

@@ -1,0 +1,17 @@
+# TaxSP
+# Modes Explained
+#
+#
+# Do not touch version number
+Version: 1
+Total: 0
+Settings:
+  bankRequirement: 1000000
+  Mode: 1
+  Enabled: true
+Language:
+  taxPaid: ""
+  taxPaid2: ""
+Player:
+  Data:
+    43a61dc7-7b99-4381-a06a-2bc16ff69d5d: 0
